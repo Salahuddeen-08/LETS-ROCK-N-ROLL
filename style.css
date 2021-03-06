@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-image: url('https://www.americanbluesscene.com/wp-content/uploads/2017/12/Rock-and-Roll-Graphic-Feature.jpg');
+    }
+    #color-overlay{
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align:center;
+    color: white;
+    }
+    #text-bg{
+    line-height: 100vh;
+    font-size: 80px;
+    margin: 0;
+    text-align:center;
+    }
